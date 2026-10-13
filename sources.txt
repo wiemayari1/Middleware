@@ -1,0 +1,8 @@
+C:\Users\MSI\Desktop\TP Middleware\Bibliotheque\src\metier\Bibliotheque.java
+C:\Users\MSI\Desktop\TP Middleware\Bibliotheque\src\metier\GestionBibliotheque.java
+C:\Users\MSI\Desktop\TP Middleware\Bibliotheque\src\metier\Livre.java
+C:\Users\MSI\Desktop\TP Middleware\Bibliotheque\src\passerelle\PasserelleHttp.java
+C:\Users\MSI\Desktop\TP Middleware\Bibliotheque\src\protocole\ProtocoleBibliotheque.java
+C:\Users\MSI\Desktop\TP Middleware\Bibliotheque\src\reseau\ClientBibliothequeTCP.java
+C:\Users\MSI\Desktop\TP Middleware\Bibliotheque\src\reseau\ServeurBibliothequeTCP.java
+C:\Users\MSI\Desktop\TP Middleware\Bibliotheque\src\test\TestBibliothequeLocal.java

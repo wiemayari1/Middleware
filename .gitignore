@@ -1,0 +1,6 @@
+out/
+sources.txt
+node_modules/
+dist/
+.idea/
+*.iml
